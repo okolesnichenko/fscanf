@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fscanf", "fscanf\fscanf.vcxproj", "{F093214F-E587-47A1-A1E2-4627F3C6359A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Debug|x64.ActiveCfg = Debug|x64
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Debug|x64.Build.0 = Debug|x64
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Debug|x86.Build.0 = Debug|Win32
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Release|x64.ActiveCfg = Release|x64
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Release|x64.Build.0 = Release|x64
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Release|x86.ActiveCfg = Release|Win32
+		{F093214F-E587-47A1-A1E2-4627F3C6359A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED4E73F-1D4C-40EE-B9A7-35C38D801169}
+	EndGlobalSection
+EndGlobal

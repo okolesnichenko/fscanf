@@ -1,3 +1,14 @@
+// fscanf.cpp: определяет точку входа для консольного приложения.
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include <stdio.h>
+#include <stdarg.h>
+#pragma warning(disable: 4996)
+
+using namespace std;
+
 int fscanf_my(FILE *stream, const char *format, ...)
 {
 	int i = 0, j = 0, m = 0, l = 0,
